@@ -1,9 +1,13 @@
 import React from "react";
 
+import "../PostList/index.scss";
+
 const PostList = () => {
   return (
     <body>
-      <div className=""></div>
+      <div className="conteiner">
+        <div className="">{}</div>
+      </div>
     </body>
   );
 };
